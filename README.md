@@ -22,8 +22,8 @@ El repositorio contiene el código necesario para reproducir todas las tablas y 
 
 Los datos no se incluyen en el repositorio.
 
-1. Descarga el conjunto de datos *Stroke Prediction Dataset* desde Kaggle: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
-2. Descomprime el fichero y copia el CSV en la carpeta `data/` con el nombre `stroke.csv`.
+1. Descarga el conjunto de datos *Stroke Prediction Dataset* desde Kaggle (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) o desde los materiales del Máster del CEMP.
+2. Si el archivo viene comprimido, descomprímelo y copia el CSV en la carpeta `data/` con el nombre `stroke.csv`.
 
 El fichero debe estar separado por comas y contener 5 110 filas y las columnas `id`, `gender`, `age`, `hypertension`, `heart_disease`, `ever_married`, `work_type`, `Residence_type`, `avg_glucose_level`, `bmi`, `smoking_status` y `stroke`.
 
@@ -73,3 +73,4 @@ Al terminar, las tablas están en `tables/` y las figuras en `figures/`. Compár
 ## Licencia y uso
 
 Código desarrollado con fines académicos para el TFM. Los datos pertenecen a sus autores originales y deben descargarse desde la fuente indicada.
+
